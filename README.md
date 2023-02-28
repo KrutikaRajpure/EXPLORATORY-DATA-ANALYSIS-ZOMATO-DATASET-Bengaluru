@@ -1,7 +1,9 @@
 # EXPLORATORY-DATA-ANALYSIS-ZOMATO-DATASET-Bengaluru
 Objective:
 
-Understand the Data Clean the Data. '
+Understand the Data.
+
+Clean the Data. 
 
 Analysis the relationship between the Data. 
 
