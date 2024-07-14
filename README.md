@@ -1,7 +1,5 @@
 # EXPLORATORY-DATA-ANALYSIS-ZOMATO-DATASET-Bengaluru and Performance Regression to predict the price
 
-**Objective:**
-
 - Link to dataset: https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
   
 **Feature Engineering**
